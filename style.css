@@ -52,7 +52,7 @@ body {
 .image {
     text-align: center;
     margin: 0px;
-    background-image: url("assets/images/illustration-article.svg");
+    background-image: url("illustration-article.svg");
     height: 200px;
     border-radius: 20px;
     object-fit: contain;
